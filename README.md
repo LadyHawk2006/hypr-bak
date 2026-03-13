@@ -1,7 +1,6 @@
 # 🐧 Hyprland Config Backup
 
 <div align="center">
-  <img src="https://commons.wikimedia.org/wiki/File:Hyprland_Logo_Icon.svg" width="150" height="150" alt="Hyprland Logo">
   <br>
   <img src="https://img.shields.io/badge/Distro-CachyOS-orange?style=for-the-badge&logo=arch-linux" alt="Distro">
   <img src="https://img.shields.io/badge/WM-Hyprland-blue?style=for-the-badge&logo=hyprland" alt="Window Manager">
